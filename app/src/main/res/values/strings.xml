@@ -1,0 +1,69 @@
+<resources>
+    <string name="app_name">Lab6</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="email">Email</string>
+    <string name="start_btn">Почати</string>
+    <string name="settings_btn">Налаштування</string>
+    <string name="exit_btn">Вихід</string>
+    <string name="auth_btn">Авторизація</string>
+    <string name="settings_menu_btn">Налаштування</string>
+    <string name="pause_menu_btn">Пауза</string>
+    <string name="resume_menu_btn">Продовжити</string>
+    <string name="stop_menu_btn">Завершити</string>
+    <string-array name="difficulty">
+        <item>Легко</item>
+        <item>Нормально</item>
+        <item>Складно</item>
+    </string-array>
+    <string name="title_activity_side_menu">SideMenuActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Game</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="action_auth">Authentication</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_menu">MenuActivity</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="menu_settings">Налаштування</string>
+    <string name="menu_start">Головна</string>
+    <string name="menu_auth">Авторизація</string>
+    <string name="all_colors_text">Всі</string>
+    <string name="warm_colors_text">Теплі</string>
+    <string name="cold_colors_text">Холодні</string>
+    <string name="menu_statistics">Статистика</string>
+    <string name="name">Name</string>
+    <string name="yes_btn">Так</string>
+    <string name="time">01:00</string>
+    <string name="color2">Червоний</string>
+    <string name="rule_text">Чи співпадає назва кольору ліворуч з кольором текста праворуч?</string>
+    <string name="color1">Помаранчевий</string>
+    <string name="init_points">0</string>
+    <string name="no_btn">Ні</string>
+    <string name="Complexity">Складність:</string>
+    <string name="init_complexity">нормальна</string>
+    <string name="Colors">Кольори:</string>
+    <string name="colors">всі</string>
+    <string name="your_result">Ваш результат:</string>
+    <string name="default_result">0</string>
+    <string name="play_again">Грати ще</string>
+    <string name="main_page">На головну</string>
+    <string name="theme_light">Світла тема</string>
+    <string name="game_colors">Кольори в грі</string>
+    <string name="user_name">Обліковий запис</string>
+    <string name="send_stat">Надсилати статистку</string>
+    <string name="easy_level">Легкий рівень</string>
+    <string name="normal_level">Середній рівень</string>
+    <string name="hard_level">Важкий рівень</string>
+    <string name="table_time">Час</string>
+    <string name="table_score">Бали</string>
+    <string name="table_complex">Рівень</string>
+</resources>
